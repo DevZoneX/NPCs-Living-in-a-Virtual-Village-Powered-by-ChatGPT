@@ -9,7 +9,7 @@ This project aims to develop a virtual village simulation using AI and LLM-drive
 - Dynamic environment: The virtual village will evolve and change over time based on the actions and decisions of the NPCs.
 - Interactive gameplay: NPCs will have the ability to interact with each other, make choices, and influence the decision of others.
 
-![thevillage](images/TheVillage.gif)
+![thevillage](static/simulation.gif)
 
 ## Installation
 

@@ -1,4 +1,4 @@
-# NPCs Living in a Virtual Village Ppowerd by ChatGPT
+# NPCs Living in a Virtual Village Powered by ChatGPT
 
 This project aims to develop a virtual village simulation using AI and LLM-driven NPC generation. The goal is to create a realistic and dynamic environment where non-player characters (NPCs) interact with each other.
 
